@@ -1,2 +1,2 @@
-# acm_fat2020_submission
-This is the repo for the ACM Fat 2020 submission
+# ICML 2020 submission
+This is the repo for the ICML 2020 submission
